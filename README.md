@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://api.daily.dev/devcards/b4dfa94e51544306966deb8ecbf84a0f.png?r=uql
+<a href="https://app.daily.dev/kishore_vkr"><img src="https://api.daily.dev/devcards/b4dfa94e51544306966deb8ecbf84a0f.png?r=xzd" width="400" alt="Kishore Venkataramanan's Dev Card"/></a>
 
 <!--
 **kishore-vk/kishore-vk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
